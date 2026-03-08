@@ -22,5 +22,3 @@ Oqren is crafted and maintained by developers who live in the GitHub and Discord
 [Discord server]: [https://discord.Oqren.com](https://discord.Oqren.com)
 [Documentation]: [https://Docs.Oqren.com](https://Docs.Oqren.com)
 [Website]: [https://Oqren.com](https://Oqren.com)
-
-Muss noch was hinzugefügt werden ?
